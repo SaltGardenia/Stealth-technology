@@ -1,6 +1,6 @@
 # 开发语言：C++
 
-# 开发工具：OpenCV
+# 开发工具：OpenCV，QT Creator 4.2.1
 
 # 环境配置：
 
