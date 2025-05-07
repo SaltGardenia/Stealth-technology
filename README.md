@@ -21,7 +21,7 @@ using namespace cv;
 
 4、拍摄一张背景图片放置于该项目根目录下，并在
 ```
-Mat first = imread("D:/Project/Stealth-technology/");
+Mat first = imread("./Stealth-technology/");
 ```
 处更改对应路径。(视实际路径而定，防止转义字符冲突，将"`\`"改为"`/`")
 
