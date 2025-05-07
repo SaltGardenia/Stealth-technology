@@ -6,7 +6,7 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-    Mat first = imread("D:/Project/Stealth-technology/");
+    Mat first = imread("./Stealth-technology/");
     Mat frame;
     VideoCapture capture(0);
     while(capture.read(frame)) {
